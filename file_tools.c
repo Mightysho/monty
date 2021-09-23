@@ -123,7 +123,7 @@ void find_func(char *opcode, char *value, int ln, int format)
  * call_fun - Calls the required function.
  * @func: Pointer to the function that is about to be called.
  * @op: string representing the opcode.
- * @val: string representing a numeric value.
+ * @val: the string representing a numeric value.
  * @ln: line numeber for the instruction.
  * @format: Format specifier. If 0 Nodes will be entered as a stack.
  * if 1 nodes will be entered as a queue.
