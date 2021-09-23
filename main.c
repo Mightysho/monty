@@ -2,7 +2,7 @@
 stack_t *head = NULL;
 
 /**
- * main - entry point
+ * main - the function is the program's main entry point
  * @argc: arguments count
  * @argv: list of arguments
  * Return: always 0
