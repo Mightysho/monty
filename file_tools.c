@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * open_file - opens a file
- * @file_name: the file namepath
+ * open_file - the function opens a file
+ * @file_name: the file name path
  * Return: void
  */
 
