@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
 ---
@@ -266,3 +267,12 @@ File(s): [`1003-mul.bf`](https://github.com/Mightysho/monty/blob/main/bf/1003-mu
 
 ### Author
 Nakanwagi Stacey
+=======
+<!-- Queues and stacks -->
+
+My Awesome Stacey Angel.. Please are you still awake? I've been trying to message u on whatsap but you're offline. So i checked the GitHub and i see you're making some changes but dnt knw how to contact you. This is the best way i think i can get to you cuz you will surely see this message. Try to make changes on those files in *bytecodes* directory.
+<br>I will still reedit this after you see it. Thanks in anticipation.
+
+Yours faithfully<br>
+Your Awesome Micheal
+>>>>>>> 772d44e2f982b5fcd8a5c9b7581adc019b2e98be
