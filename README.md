@@ -268,4 +268,5 @@ File(s): [`1003-mul.bf`](https://github.com/Elmahdi1962/monty/blob/master/bf/100
 ---
 
 ## team
-* **ElmahdiMamoun** - [Elmahdi1962](github.com/Elmahdi1962)
+* **StaceyNakanwagi** - [Stacey-bee]
+* **MichealShonbuki** - [Mightysho]
