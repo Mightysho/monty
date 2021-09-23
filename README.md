@@ -1,23 +1,16 @@
 0x19. C - Stacks, Queues - LIFO, FIFO
-Submission date
 
-23-09-2021
+Project dates
+
+21-09-2021 to 23-09-2021
 Description
 
-<<<<<<< HEAD
-Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
+Third team project. Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
 Requirements
 
     Compilation for all tasks: gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 Monty program
-=======
-### Submission date
-23-09-2021
-
-### Description
-Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
 
 Usage: `monty file`
     where `file` is the path to the file containing Monty byte code
@@ -257,57 +250,31 @@ All your Brainf*ck files should be stored inside the `bf` sub directory
 You can install the `bf` interpreter to test your code: `sudo apt install bf`
 Read: [Brainf*ck](https://en.wikipedia.org/wiki/Brainfuck)
 
-<<<<<<< HEAD
-File(s): [1000-school.bf]
+File(s): 1000-school.bf
 white_check_mark 17. Add two digits
-=======
-File(s): [`1000-school.bf`]
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
 
 Add two digits given by the user.
 
 Read the two digits from stdin, add them, and print the result
 The total of the two digits with be one digit-long (<10)
 
-<<<<<<< HEAD
-File(s): [1001-add.bf]
+File(s): 1001-add.bf
 white_check_mark 18. Multiplication
-=======
-File(s): [`1001-add.bf`]
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
 
 Multiply two digits given by the user.
 
 Read the two digits from stdin, multiply them, and print the result
 The result of the multiplication will be one digit-long (<10)
 
-<<<<<<< HEAD
-File(s): [1002-mul.bf]
+File(s): 1002-mul.bf
 white_check_mark: 19. Multiplication level up
-=======
-File(s): [`1002-mul.bf`]
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
 
 Multiply two digits given by the user.
 
-<<<<<<< HEAD
 Read the two digits from stdin, multiply them, and print the result, followed by a new line
-=======
-    Read the two digits from stdin, multiply them, and print the result, followed by a new line
 
-File(s): [`1003-mul.bf`])
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
+File(s): 1003-mul.bf
+Authors:
 
-File(s): [1003-mul.bf])
-Team
-
-<<<<<<< HEAD
-    Stacey Nakanwagi | staceynakanwagi@gmail.com
-    Micheal Shokunbi | mightysho123@gmail.com
-=======
-## Team
-<!-- * **Stacey Nakanwagi** - (Stacey-bee)
-* **Micheal Shokunbi** - (Mightysho) -->
-- [Stacey Nakanwagi](https://github.com/Stacey-bee/) | <staceynakanwagi@gmail.com>
-- [Micheal Shokunbi](https://github.com/Mightysho/) | <mightysho123@yahoo.com>
->>>>>>> 70ef4ab5f18b84c12a2e1762dfaf388f1c8401a0
+Stacey Nakanwagi
+Micheal 
