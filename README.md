@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
 ---
@@ -276,3 +277,6 @@ My Awesome Stacey Angel.. Please are you still awake? I've been trying to messag
 Yours faithfully<br>
 Your Awesome Micheal
 >>>>>>> 772d44e2f982b5fcd8a5c9b7581adc019b2e98be
+=======
+Queues and stacks
+>>>>>>> 8dfe9552ad500ec6bfb2f820e608e9a91f66828b
