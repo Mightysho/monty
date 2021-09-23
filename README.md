@@ -265,5 +265,5 @@ File(s): [`1003-mul.bf`])
 ---
 
 ## team
-* **StaceyNakanwagi** - (Stacey-bee)
-* **MichealShonbuki** - (Mightysho)
+* **Stacey Nakanwagi** - (Stacey-bee)
+* **Micheal Shokunbi** - (Mightysho)
