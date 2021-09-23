@@ -265,5 +265,7 @@ File(s): [`1003-mul.bf`])
 ---
 
 ## team
-* **Stacey Nakanwagi** - (Stacey-bee)
-* **Micheal Shokunbi** - (Mightysho)
+<!-- * **Stacey Nakanwagi** - (Stacey-bee)
+* **Micheal Shokunbi** - (Mightysho) -->
+- [Stacey Nakanwagi](https://github.com/Stacey-bee/) | <staceynakanwagi@gmail.com>
+- [Micheal Shokunbi](https://github.com/Mightysho/) | <mightysho123@yahoo.com>
