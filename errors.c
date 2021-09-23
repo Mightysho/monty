@@ -8,8 +8,8 @@
  * (3) => The file provided contains an invalid instruction.
  * (4) => When the program is unable to malloc more memory.
  * (5) => When the parameter passed to the instruction "push" is not an int.
- * (6) => When the stack it empty for pint.
- * (7) => When the stack it empty for pop.
+ * (6) => When the stack empties for pint.
+ * (7) => When the stack empities for pop.
  * (8) => When stack is too short for operation.
  */
 void err(int error_code, ...)
