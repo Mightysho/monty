@@ -2,9 +2,6 @@
 
 ---
 
-### Project author
-ElmahdiMamoun (Elmahdi1962)
-
 ### Submission date
 23-09-2021
 
