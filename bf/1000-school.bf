@@ -33,6 +33,7 @@
 ---- -			Substract 5 from c0
 .    			Translates the c0 value 111 to "o"
 -			Substract 1 from c0
+
 .			Translates the c0 value 110 to "n"
 > ++++ ++++ ++		Add 10 to c1
 [      	    		Start loop
