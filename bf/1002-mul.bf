@@ -1,6 +1,6 @@
  ++++[>++++[>+++<-]<-]   writing 48 / 0x30 / '0' in cell(2)
     ,>,>                    reading two numbers in cell(0) and cell(1)
-    [<-<->>-]               decrementing cell(0) and cell(1) by 48 / 0x30 / '0'
+    [<-<->>-]               decrement cell(0) and cell(1) by 48 / 0x30 / '0'
     <<                      go to cell(0)
     [                       mulitplication loop
         >                   go to cell(1)

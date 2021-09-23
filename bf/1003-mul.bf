@@ -7,7 +7,7 @@ convert atoi
  >----- ---
  <<-
 ]
-multiply two integers
+multiplying two integers
 >[
  >[>+>+<<-]
  >[<+>-]
