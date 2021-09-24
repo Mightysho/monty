@@ -3,7 +3,7 @@
 ---
 
 ### Submittion date
-23-09-2021 to 23-09-2021
+23-09-2021
 
 ### Description
 Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
