@@ -1,14 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
 ---
 
-### Assignment dates
-21-09-2021 to 23-09-2021
+### Submittion date
+23-09-2021 to 23-09-2021
 
 ### Description
-Third team project. Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
+Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
 
 ### Requirements
 * Compilation for all tasks: `gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
@@ -267,16 +265,5 @@ File(s): [`1003-mul.bf`](https://github.com/Mightysho/monty/blob/main/bf/1003-mu
 ---
 
 ### Author
-Nakanwagi Stacey
-=======
-<!-- Queues and stacks -->
-
-My Awesome Stacey Angel.. Please are you still awake? I've been trying to message u on whatsap but you're offline. So i checked the GitHub and i see you're making some changes but dnt knw how to contact you. This is the best way i think i can get to you cuz you will surely see this message. Try to make changes on those files in *bytecodes* directory.
-<br>I will still reedit this after you see it. Thanks in anticipation.
-
-Yours faithfully<br>
-Your Awesome Micheal
->>>>>>> 772d44e2f982b5fcd8a5c9b7581adc019b2e98be
-=======
-Queues and stacks
->>>>>>> 8dfe9552ad500ec6bfb2f820e608e9a91f66828b
+- [Stacey Nakanwagi](https://github.com/Stacey-bee/) | <staceynakanwagi@gmail.com>
+- [Micheal Shokunbi](https://github.com/Mightysho/) | <mightysho123@yahoo.com>
